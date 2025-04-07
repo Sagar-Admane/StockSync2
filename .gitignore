@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# VSCode files
+.vscode/
+
+# OS files
+.DS_Store
+
+# Model or data artifacts (optional)
+*.h5
+*.save
+
+# Logs
+*.log
+
+# Environment
+.env
